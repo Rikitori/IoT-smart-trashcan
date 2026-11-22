@@ -21,12 +21,8 @@ Cấu trúc lưu trữ tài nguyên của dự án trên GitHub được tổ ch
 ```
 ├── code/
 │   └── Smart_Trash_Collector.ino   # Mã nguồn C++ lập trình trên Arduino IDE
-├── libraries/                      # Các thư viện hỗ trợ (Servo.h)
 ├── poster/
 │   └── Poster_A4.pdf               # Poster báo cáo dự án khổ A4 (Nhóm 13)
-├── docs/
-│   ├── so_do_nguyen_ly_khong_lcd.png # Sơ đồ nguyên lý kết nối phần cứng
-│   └── BAO_CAO_HE_THONG_NHUNG_THUNG_RAC_THONG_MINH.docx # Báo cáo học phần
 └── README.md                       # Tài liệu hướng dẫn và giới thiệu dự án
 ```
 
